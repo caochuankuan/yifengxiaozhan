@@ -1,9 +1,10 @@
 # 逸风小站
 技术栈：
-### HTML5
-### CSS3
-### JavaScript
-### PHP
-### vue
-### jQuery
-### Ajax
+1.HTML5
+2.CSS3
+3.JavaScript
+4.PHP
+5.vue
+6.jQuery
+7.Ajax
+8.MySQL
